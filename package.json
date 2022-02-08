@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "randommessage",
+  "version": "1.0.0",
+  "description": "The purpose of this project is to create a terminal style project that will\r report a random message whenever a user triggers a response",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawnDietrich/RandomMessage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShawnDietrich/RandomMessage/issues"
+  },
+  "homepage": "https://github.com/ShawnDietrich/RandomMessage#readme"
+}

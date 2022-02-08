@@ -1,2 +1,12 @@
-//Main javascript file will interact with the HTML file
-//All objects should be initlized in the obj.js file
+//Declare all objects here
+
+
+
+
+
+
+
+
+//Declare any functions required here
+
+
