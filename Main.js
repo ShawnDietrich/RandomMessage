@@ -1,6 +1,6 @@
 //Declare all objects here
 const quoteGen = {
-    insperational: ["When you have a dream, you’ve got to grab it and never let go. — Carol Burnett",
+    inspirational: ["When you have a dream, you’ve got to grab it and never let go. — Carol Burnett",
         "Nothing is impossible. The word itself says I’m possible! — Audrey Hepburn",
         "There is nothing impossible to they who will try. — Alexander the Great"],
     funny: ["Before you marry a person, you should first make them use a computer with slow Internet to see who they really are. —Will Ferrell",
@@ -25,8 +25,8 @@ for (quote in quoteGen){
     let index = quoteGen.randomNumber()
 
     switch (quote){
-        case 'insperational':
-            quotes.push(`Insperational Quote: ${quoteGen[quote][index]}`)
+        case 'inspirational':
+            quotes.push(`inspirational Quote: ${quoteGen[quote][index]}`)
             break
         case 'funny':
             quotes.push(`Funny Quote: ${quoteGen[quote][index]}`)
