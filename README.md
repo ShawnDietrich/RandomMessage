@@ -3,7 +3,8 @@
 ## The Overall Purpose
 
 The purpose of this project is to create a terminal style project that will
-report a random message whenever a user triggers a response
+report a random message whenever a user triggers a response.  The output will
+report three messages; an insperational quote, a funny quote, and a famous quote
 
 ## Look and Feel
 
